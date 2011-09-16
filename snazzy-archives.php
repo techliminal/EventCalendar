@@ -1,10 +1,7 @@
 <?php
-  // pluginname Snazzy Archives
-  // shortname SnazzyArchives
-  // dashname snazzy-archives
   
   /*
-   Plugin Name: Snazzy Archives
+   Plugin Name: Event Calendar
    Version: 1.6.1
    Plugin URI: http://www.prelovac.com/vladimir/wordpress-plugins/snazzy-archives
    Author: Vladimir Prelovac

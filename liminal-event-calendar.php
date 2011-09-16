@@ -54,7 +54,7 @@
               add_shortcode('snazzy-archive', array(&$this, 'display'));
               
               // Add Options Page
-              add_action('admin_menu', array(&$this, 'admin_menu'));
+              //add_action('admin_menu', array(&$this, 'admin_menu'));
               add_action('wp_print_scripts', array(&$this, 'ScriptsAction'));
               
               add_action('edit_post', array(&$this, 'delete_cache'));

@@ -1,7 +1,7 @@
 <?php
   
   /*
-   Plugin Name: Event Calendar
+   Plugin Name: Heyday Event Calendar
    Version: 1.6.1
    Plugin URI: http://www.prelovac.com/vladimir/wordpress-plugins/snazzy-archives
    Author: Vladimir Prelovac
